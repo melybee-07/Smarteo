@@ -34,3 +34,11 @@ img {
   bottom: 12%;
   padding-left: 5%;
 }
+
+@media (max-width: 76.8rem) {
+  a {
+    width: 45%;
+    font-size: 20px;
+    margin-top: 50%;
+  }
+}
